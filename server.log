@@ -1,0 +1,602 @@
+[Sun Nov 30 07:06:50 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54030
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:50 PST
+> Expires: Sun, 30 Nov 2025 19:06:50 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:53 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54046
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:53 PST
+> Expires: Sun, 30 Nov 2025 19:06:53 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:53 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54060
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:53 PST
+> Expires: Sun, 30 Nov 2025 19:06:53 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:53 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54076
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54096
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54110
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54132
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54156
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54186
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54204
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54224
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54230
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54242
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54260
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54280
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54290
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54308
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54322
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54350
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54366
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54388
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54408
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54440
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54464
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54480
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54494
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54508
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54514
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54532
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54558
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54568
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54592
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54624
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54640
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54666
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54684
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54704
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54716
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54746
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54764
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54796
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54802
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54816
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54850
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54864
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54880
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54902
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54932
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54954
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080
+Connection received on localhost 54976
+< GET / HTTP/1.0
+< 
+> HTTP/1.0 200 OK
+> Date: Sun, 30 Nov 2025 19:06:54 PST
+> Expires: Sun, 30 Nov 2025 19:06:54 PST
+> Server: Slash Bin Slash Bash
+> Content-Type: text/plain
+> 
+> Hello, world!  You can configure bashttpd by modifying bashttpd.conf.
+[Sun Nov 30 07:06:54 PM PST 2025] Waiting for connection
+Listening on 0.0.0.0 8080

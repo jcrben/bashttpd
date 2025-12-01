@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+nc -l 8080 -k -w 10 <<'EOF'
+# 1. Consume the entire HTTP request (headers + possible body)
+while IFS= read -r line && [[ -n "$line" ]]; do :; done
+# (this loop stops at the empty line that ends HTTP headers)
+
+# 2. Send a perfectly valid HTTP/1.1 response with correct blank line
+printf 'HTTP/1.1 200 OK\r\n'
+printf 'Content-Type: text/html; charset=utf-8\r\n'
+printf 'Content-Length: 104\r\n'
+printf 'Connection: close\r\n'
+printf '\r\n'                     # ← THIS BLANK LINE IS CRITICAL
+printf '<h1>It really works now</h1>\r\n'
+printf '<p>Served %s — %s</p>\r\n' "$(hostname)" "$(date)"
+EOF

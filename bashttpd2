@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+# bashttpd-node – Node.js-style concurrency in pure bash + nc
+# No socat, no ncat, no python, no external tools at all
+
+PORT="${1:-8080}"
+DOCROOT="${BASHTTPD_DOCROOT:-$(pwd)}"
+WORKERS=8                               # tweak 4–16 depending on cores
+
+# In-memory cache (shared via exported variables – works because workers inherit env)
+declare -A CACHE_CONTENT CACHE_TYPE CACHE_MTIME
+
+# Pre-load hot files (optional)
+preload() {
+    local f
+    for f in index.html favicon.ico style.css script.js; do
+        [[ -f "$DOCROOT/$f" ]] && {
+            CACHE_CONTENT["/$f"]=$(cat "$DOCROOT/$f")
+            CACHE_TYPE["/$f"]="text/html"  # add more types if you want
+            CACHE_MTIME["/$f"]=$(stat -c %Y "$DOCROOT/$f" 2>/dev/null || echo 0)
+        }
+    done
+}
+preload
+
+# Worker function – runs forever, reading jobs from a named pipe
+worker() {
+    while IFS= read -r client_fd <&3; do
+        # Re-open the client socket on fd 3 (passed by the master)
+        exec 3<>/dev/fd/$client_fd
+
+        # Tiny HTTP parser + cache response
+        read -r method uri version <&3 || continue
+        while read -r line && [[ "$line" != $'\r' ]]; do :; done <&3
+
+        uri="${uri%%[?#]*}"
+        [[ "$uri" == "/" ]] && uri="/index.html"
+
+        if [[ -n "${CACHE_CONTENT[$uri]}" ]]; then
+            printf "HTTP/1.1 200 OK\r\nContent-Type: ${CACHE_TYPE[$uri]}\r\nContent-Length: %d\r\n\r\n%s" \
+                   "${#CACHE_CONTENT[$uri]}" "${CACHE_CONTENT[$uri]}" >&3
+        else
+            printf "HTTP/1.1 404 Not Found\r\nContent-Length: 13\r\n\r\n404 Not Found" >&3
+        fi
+        exec 3<&-   # close client
+    done 3<&-
+}
+
+# Start worker pool
+mkfifo /tmp/bashttpd-queue
+for ((i=0;i<WORKERS;i++)); do
+    worker &
+done
+
+# Master acceptor – this is the “Node.js event loop”
+echo "bashttpd-node listening on $PORT with $WORKERS workers"
+while true; do
+    # Accept connection and get its file descriptor number
+    exec 3< <(nc -l "$PORT")
+    fd=$(lsof -p $$ -a -d 3 -F n | grep '^n' | cut -c2-)
+    echo "$fd" > /tmp/bashttpd-queue   # hand it off to the next free worker
+    exec 3<&-                          # close master side immediately
+done
